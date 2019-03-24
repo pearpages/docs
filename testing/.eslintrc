@@ -1,14 +1,12 @@
 {
-  “parseOptions”: {
-  “ecmaVersion”: “2018”
+  "parseOptions": {
+    "ecmaVersion": "2018"
   },
-  “extends”: [
-	“eslint:recommended”
-],
-“rules”: {
-“no-console”: “off”
-},
-“Env”: {
-	“Browser”: true
-}
+  "extends": ["eslint:recommended"],
+  "rules": {
+    "no-console": "off"
+  },
+  "env": {
+    "Browser": true
+  }
 }
