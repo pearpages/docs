@@ -11,10 +11,11 @@ module.exports = {
   setupTestFrameworkScriptFile: require.resolve('setup-tests.js'),
   collectCoverageFrom: [‘**/src/**.js’],
   coverageThreshold: {
-	  global: {
+    global: {
       statements: 17,
       branches: 4,
       lines: 17,
       functions: 20
+    }
   }
 }
