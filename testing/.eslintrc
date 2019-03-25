@@ -7,6 +7,6 @@
     "no-console": "off"
   },
   "env": {
-    "Browser": true
+    "browser": true
   }
 }
