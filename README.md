@@ -4,5 +4,4 @@
 
 [Changing the shortcut for highlighting text in Preview](https://apple.stackexchange.com/questions/208638/changing-the-shortcut-for-highlighting-text-in-preview)
 
-
 [WIKI](https://github.com/pearpages/docs/wiki)
