@@ -1,6 +1,6 @@
 # Cli
 
-|                                                              |
+|  TOC                                                            |
 | ------------------------------------------------------------ |
 | [readings](##readings)                                       |
 | [process & params](##process & params)                       |
