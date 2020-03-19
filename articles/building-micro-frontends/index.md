@@ -13,3 +13,7 @@
 5. [Wrap Up](./05.wrap-up/wrap-up.md)
 
 ---
+
+- [Schibsted meetup](./00.schibsted/schibsted.md)
+
+---
